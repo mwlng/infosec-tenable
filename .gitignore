@@ -1,0 +1,6 @@
+##
+# git ignores
+##
+
+**/pyc
+**/__pycache__
